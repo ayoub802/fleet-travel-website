@@ -13,11 +13,18 @@ Easy Customization: Tailor Fleet to your unique project needs with well-structur
 🚀 Why Fleet? 🚀
 Fleet is not just a UI kit; it's a passport to creating unforgettable travel shopping websites and applications. Whether you're building a travel agency platform, a flight booking app, or a hotel reservation website, Fleet empowers you to deliver a top-tier experience to your users.
 
+
+
+
 👨‍💻 Get Started 👩‍💻
 Clone this repository to kickstart your project today. Dive into the code, explore the components, and embark on a journey to create the travel-related project of your dreams.
 
+
+
 🌐 Demo 🌐
 Check out our live demo here to see Fleet in action.
+
+
 
 📖 Documentation 📖
 For detailed usage instructions and customization guidelines, refer to our documentation.
@@ -26,7 +33,7 @@ For detailed usage instructions and customization guidelines, refer to our docum
 We welcome contributions from the community to make Fleet even better. Whether you're fixing a bug, improving performance, or adding new features, your contributions are valued and appreciated.
 
 👥 Connect with Us 👥
-Have questions, feedback, or just want to say hello? Reach out to us on Twitter or LinkedIn. We'd love to hear from you!
+Have questions, feedback, or just want to say hello? Reach out to us on Facebook or LinkedIn. We'd love to hear from you!
 
 Happy coding and happy travels with Fleet - your ultimate Travel Shopping UI Kit! 🌟
 
